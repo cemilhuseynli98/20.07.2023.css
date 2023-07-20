@@ -1,0 +1,49 @@
+#body1{
+    background-color:#EDEDED ;
+}
+
+.div1{
+    background-color:#FFFFFF ;
+    display:flex; 
+
+    width:  1100px;
+    height: 300px;
+}
+.link1{
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+}
+.sekil1{
+height: 20px;
+
+}
+.div2{
+    background-color:#FAFAFA;
+
+    width: 1350px;
+   
+   
+}
+li{
+    list-style: none;
+}
+ 
+.text {
+    text-align: center;
+}
+.list1{
+    padding-left: 90px;
+   
+}
+.list2{
+    padding-left:90px ;
+   
+}
+
+.list3{
+    padding-left:90px ;
+}
+.list4{
+    padding-left:90px ;
+}

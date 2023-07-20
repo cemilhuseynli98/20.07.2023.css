@@ -1,0 +1,27 @@
+*{
+    color: white;
+   
+}
+.div1{
+  
+width: 1200px;
+height: 980px;
+background-color: #252B42;
+
+}
+.head1{
+    padding-top: 100px;
+}
+p,h1,h3{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.paragraf1{
+    text-align: center;
+padding-bottom: 70px;
+font-size: 0.6rem;
+}
+p{
+    padding-bottom: 30px;
+font-size: 0.6rem;
+}

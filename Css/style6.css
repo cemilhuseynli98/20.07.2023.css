@@ -1,0 +1,87 @@
+.div1{
+width: 500px;
+height: 500px;
+background-color: white;
+margin-left: 30%;
+}
+.head1{
+    margin-left: 25px;
+}
+.link1{
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    margin-right: 50px;
+}
+.sekil1{
+    height: 20px;
+   padding-right: 7px;
+  
+}
+.link2{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+}
+.sekil2{
+    height: 20px;
+   padding-right: 5px;
+}
+.head2{
+    color: grey;
+    margin-top: 70px;
+    text-align: center;
+}
+.in1{
+    margin-left: 35%;
+    border-inline-end:10px;
+    border-block-start: 50px;
+    border-inline-start: 10px;
+    display: block;
+    margin-top: 70px;
+}
+.in2{
+    margin-left: 35%;
+    border-inline-end:10px;
+    border-block-start: 50px;
+    border-inline-start: 10px;
+    display: block;
+    margin-top: 20px;
+}
+.in3{
+    margin-left: 35%;
+    border-inline-end:10px;
+    border-block-start: 50px;
+    border-inline-start: 10px;
+    display: block;
+    margin-top: 20px;
+}
+.link3{
+    margin-bottom: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color:#279474;
+    padding-left:7%;
+   
+    width: 27%;
+    display: block;
+    margin-left: 35%;
+}
+.span1{
+    color: gray;
+    margin-left: 35%;
+    font-size: 0.7rem;
+}
+.link4{
+    text-decoration: none;
+    color: blue;
+  
+
+}
